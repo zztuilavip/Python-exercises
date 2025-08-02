@@ -1,5 +1,5 @@
 
-TIE_BREAK_CAP = 10
+TIE_BREAK_CAP = 6
 def is_game(score):
     if len(score) != 2:
         return False
